@@ -2,3 +2,5 @@
 DSCI Assignments
 
 project creation date: Oct 5th, 2024
+
+author: Sebastian Zhu
